@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#ticket {
+    background-color: rgb(228, 134, 52);
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 2rem;
+}
